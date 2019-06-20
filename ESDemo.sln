@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESDemo", "ESDemo\ESDemo.csproj", "{4D3A0C32-76E9-4BB2-8588-39647180BE26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESDemo.ESClient", "ESDemo.ESClient\ESDemo.ESClient.csproj", "{42C0935D-25AE-47C0-A584-B571732271A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3A0C32-76E9-4BB2-8588-39647180BE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3A0C32-76E9-4BB2-8588-39647180BE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3A0C32-76E9-4BB2-8588-39647180BE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3A0C32-76E9-4BB2-8588-39647180BE26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C0935D-25AE-47C0-A584-B571732271A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C0935D-25AE-47C0-A584-B571732271A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C0935D-25AE-47C0-A584-B571732271A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C0935D-25AE-47C0-A584-B571732271A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9278FB1-5557-4E48-9832-2E18649E2996}
+	EndGlobalSection
+EndGlobal
